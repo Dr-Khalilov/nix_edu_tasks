@@ -7,7 +7,8 @@ import static java.lang.System.*;
 public class Main {
     public static void main(String[] args) {
         //3 task
-        out.println("Full name: " + FullName.getFullName("Umar", "Khalilov"));
+        out.println("Full name:" );
+        out.println(FullName.getFullName("Umar", "Khalilov"));
         out.println();
 
         //4 task
